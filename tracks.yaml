@@ -19,5 +19,5 @@ tracks:
     release_tag: :{version}
     ros_distro: indigo
     vcs_type: git
-    vcs_uri: https://github.com/ros-drivers/ovda_ethernetip.git
+    vcs_uri: https://github.com/ros-drivers/odva_ethernetip.git
     version: :{auto}
