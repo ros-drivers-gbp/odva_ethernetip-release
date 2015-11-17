@@ -1,0 +1,14 @@
+ros-indigo-odva-ethernetip (0.1.1-0trusty) trusty; urgency=high
+
+  * Fixed library name.
+  * Contributors: Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Tue, 17 Nov 2015 05:00:00 -0000
+
+ros-indigo-odva-ethernetip (0.1.0-0trusty) trusty; urgency=high
+
+  * Initial release.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Tue, 17 Nov 2015 05:00:00 -0000
+
+
