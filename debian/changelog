@@ -1,0 +1,24 @@
+ros-indigo-odva-ethernetip (0.1.2-0trusty) trusty; urgency=high
+
+  * Optional local_ip (#8 <https://github.com/ros-drivers/odva_ethernetip/issues/8>)
+  * Exclude tests from rosdoc.
+  * Minor manifest and build script updates.
+  * Use ros-shadow-fixed for dependencies.
+  * Contributors: Mike Purvis, Rein Appeldoorn, gavanderhoorn
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 12 Apr 2018 04:00:00 -0000
+
+ros-indigo-odva-ethernetip (0.1.1-0trusty) trusty; urgency=high
+
+  * Fixed library name.
+  * Contributors: Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Tue, 17 Nov 2015 05:00:00 -0000
+
+ros-indigo-odva-ethernetip (0.1.0-0trusty) trusty; urgency=high
+
+  * Initial release.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Tue, 17 Nov 2015 05:00:00 -0000
+
+
