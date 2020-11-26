@@ -1,0 +1,12 @@
+Source: ros-noetic-odva-ethernetip
+Section: misc
+Priority: optional
+Maintainer: Rein Appeldoorn <reinzor@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, libconsole-bridge-dev, ros-noetic-catkin, ros-noetic-rosunit
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-odva-ethernetip
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, libconsole-bridge-dev
+Description: Library implementing ODVA EtherNet/IP (Industrial Protocol).
