@@ -1,3 +1,26 @@
+## odva_ethernetip (noetic) - 0.1.5-1
+
+The packages in the `odva_ethernetip` repository were released into the `noetic` distro by running `/usr/bin/bloom-release odva_ethernetip --ros-distro noetic` on `Thu, 26 Nov 2020 14:32:27 -0000`
+
+The `odva_ethernetip` package was released.
+
+Version of package(s) in repository `odva_ethernetip`:
+
+- upstream repository: https://github.com/ros-drivers/odva_ethernetip.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.0`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## odva_ethernetip (melodic) - 0.1.4-0
 
 The packages in the `odva_ethernetip` repository were released into the `melodic` distro by running `/usr/bin/bloom-release odva_ethernetip --track melodic --rosdistro melodic --new-track` on `Thu, 18 Apr 2019 12:23:01 -0000`
